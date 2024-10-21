@@ -26,8 +26,8 @@ for (let i = 0; i < n; i++) {
     inr = 0
 }
 
-for ( let i  in ll)[
-    console
-]
+console.log(length(ll));
+for ( let i  in ll){
+    console.log(ll[i].join(" ");
+}
 
-console.log('output');
